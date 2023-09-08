@@ -20,11 +20,11 @@
 
 title: Jacqueline's InfoSec Blog
 email: jacq.chung1008@gmail.com
-email: rykac.c110@gmail.com
+
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello and welcome to my personal blog, where I share my learning journey in the world of information system security.
+  Whether you are a fellow newbie diving into infosec or a seasoned veteran in the field, I hope this blog serves as a repository of insights and a place for fruitful discussions. Feel free to explore my blog posts or learn more about me.
+  Happy reading!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rykacc
